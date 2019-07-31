@@ -86,6 +86,10 @@ a:-webkit-any-link {
     text-decoration: none;
 }
 
+a:hover {
+  color: darkgreen;
+}
+
 @media (max-width: 720px) {
   /* For a screen < 720px, this CSS will be read */
   .supercontainer {
